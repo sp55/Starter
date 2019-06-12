@@ -1,5 +1,7 @@
 platform :ios, '10.0'
+
 source 'https://github.com/sp55/Starter.git'
+source 'https://github.com/CocoaPods/Specs.git'
 
 target 'Starter' do
   use_frameworks!
